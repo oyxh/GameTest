@@ -1,0 +1,27 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# http://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d38871612e8bf61a63342149de9cacd8:9d0d7ea3593a908ab1760090fc0277e0:41a55449569957aa2f147df521dc3243$
+#
+:format=40300
+:texture=card.png
+:size=256x512
+:pivotpoints=enabled
+:borders=disabled
+
+back;1;309;146;202; 0.5;0.5; 0;0;0;0
+club;1;40;50;63; 0.5;0.5; 0;0;0;0
+club_s;1;17;16;21; 0.5;0.5; 0;0;0;0
+diamond;53;40;50;63; 0.5;0.5; 0;0;0;0
+diamond_s;19;17;16;21; 0.5;0.5; 0;0;0;0
+face;1;105;146;202; 0.5;0.5; 0;0;0;0
+heart;105;40;50;63; 0.5;0.5; 0;0;0;0
+heart_s;37;17;16;21; 0.5;0.5; 0;0;0;0
+JACK;149;377;97;134; 0.5;0.5; 0;0;0;0
+King;149;241;97;134; 0.5;0.5; 0;0;0;0
+QUEEN;149;105;97;134; 0.5;0.5; 0;0;0;0
+spade;157;40;50;63; 0.5;0.5; 0;0;0;0
+spade_s;55;17;16;21; 0.5;0.5; 0;0;0;0
