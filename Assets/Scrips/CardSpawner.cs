@@ -14,11 +14,11 @@ public class CardSpawner : MonoBehaviour {
     // Use this for initialization
     void Start()
     {
-        SpawnNext(33);
+       // SpawnNext(33);
     }
 
     // 生成一个随机方块
-    void SpawnNext(int card_id)
+    public void SpawnNext(int card_id)
     {
         // int i = Random.Range(0, cards.Length);
         int points_ = card_id / 4;
